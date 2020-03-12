@@ -1,0 +1,22 @@
+v-bind:src = "image" 
+or use:
+:src="image"
+:href="url"
+:title="toolTip"
+:class="isActive"
+:style="isStyled"
+:disabled="isDisabled"
+
+v-if
+v-else-if
+v-else
+v-show
+
+v-for="item in itens" {{ item }}
+
+v-on:click="item += 1"
+<div @mouseover="function"
+<form @submit="function"
+<input @keyup.enter="function"
+
+		
